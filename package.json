@@ -10,7 +10,7 @@
   "author": "",
   "dependencies": {
     "@cosmjs/crypto": "^0.31.1",
-    "@cosmjs/proto-signing": "^0.31.1",
+    "@cosmjs/proto-signing": "^0.32.4",
     "@cosmjs/stargate": "^0.31.1",
     "dotenv": "^16.0.3",
     "ts-node": "10.9.1"
